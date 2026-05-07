@@ -1,0 +1,219 @@
+{
+    "cloporte_P full": false,
+    "cloporte_P type charge": null,
+    "num_obj": 0,
+    "num_lot_obj": 10,
+    "cost": {
+        "reserve feuille": {
+            "niv 1": [
+                15,
+                20
+            ],
+            "niv 2": [
+                20,
+                30
+            ],
+            "niv 3": [
+                1,
+                1
+            ],
+            "niv 4": [
+                1,
+                1
+            ],
+            "niv 5": [
+                1,
+                1
+            ],
+            "niv 6": [
+                1,
+                1
+            ],
+            "niv 7": [
+                1,
+                1
+            ],
+            "niv 8": [
+                1,
+                1
+            ],
+            "niv 9": [
+                1,
+                1
+            ],
+            "niv 10": [
+                1,
+                1
+            ]
+        },
+        "reserve champignon": {
+            "niv 1": [
+                25,
+                10
+            ],
+            "niv 2": [
+                1,
+                1
+            ],
+            "niv 3": [
+                1,
+                1
+            ],
+            "niv 4": [
+                1,
+                1
+            ],
+            "niv 5": [
+                1,
+                1
+            ],
+            "niv 6": [
+                1,
+                1
+            ],
+            "niv 7": [
+                1,
+                1
+            ],
+            "niv 8": [
+                1,
+                1
+            ],
+            "niv 9": [
+                1,
+                1
+            ],
+            "niv 10": [
+                1,
+                1
+            ]
+        }
+    },
+    "niveaux": {
+        "stockage feuille map_1": 10,
+        "stockage champignon map_1": 1
+    },
+    "stockage max": {
+        "reserve feuille": {
+            "niv 1": 25,
+            "niv 2": 35,
+            "niv 3": 50,
+            "niv 4": 80,
+            "niv 5": 120,
+            "niv 6": 200,
+            "niv 7": 300,
+            "niv 8": 500,
+            "niv 9": 1000,
+            "niv 10": 1500
+        },
+        "reserve champignon": {
+            "niv 1": 25,
+            "niv 2": 999,
+            "niv 3": 999,
+            "niv 4": 999,
+            "niv 5": 999,
+            "niv 6": 999,
+            "niv 7": 999,
+            "niv 8": 999,
+            "niv 9": 999,
+            "niv 10": 0
+        }
+    },
+    "stockage general": {
+        "feuille": 79958,
+        "champignon": 7943,
+        "bois": 0
+    },
+    "stockage map_1": {
+        "feuille": 7958,
+        "champignon": 7943,
+        "bois": 0
+    },
+    "stockage map_2": {
+        "feuille": 0,
+        "champignon": 0,
+        "bois": 0
+    },
+    "stockage map_3": {
+        "feuille": 0,
+        "champignon": 0,
+        "bois": 0
+    },
+    "stockage map_4": {
+        "feuille": 0,
+        "champignon": 0,
+        "bois": 0
+    },
+    "obj_cree": {
+        "obj_1": {
+            "type": 3,
+            "x_obj": 581,
+            "y_obj": 763,
+            "rect_obj": 3,
+            "PV_obj": 20
+        },
+        "obj_2": {
+            "type": 1,
+            "x_obj": 279,
+            "y_obj": 684,
+            "rect_obj": 1,
+            "PV_obj": 10
+        },
+        "obj_3": {
+            "type": 3,
+            "x_obj": 548,
+            "y_obj": 720,
+            "rect_obj": 3,
+            "PV_obj": 20
+        },
+        "obj_4": {
+            "type": 1,
+            "x_obj": 701,
+            "y_obj": 712,
+            "rect_obj": 1,
+            "PV_obj": 10
+        },
+        "obj_5": {
+            "type": 1,
+            "x_obj": 182,
+            "y_obj": 170,
+            "rect_obj": 1,
+            "PV_obj": 10
+        },
+        "obj_6": {
+            "type": 3,
+            "x_obj": 321,
+            "y_obj": 275,
+            "rect_obj": 3,
+            "PV_obj": 20
+        },
+        "obj_7": {
+            "type": 3,
+            "x_obj": 82,
+            "y_obj": 146,
+            "rect_obj": 3,
+            "PV_obj": 20
+        },
+        "obj_8": {
+            "type": 1,
+            "x_obj": 300,
+            "y_obj": 184,
+            "rect_obj": 1,
+            "PV_obj": 10
+        },
+        "obj_9": {
+            "type": 1,
+            "x_obj": 521,
+            "y_obj": 751,
+            "rect_obj": 1,
+            "PV_obj": 10
+        },
+        "obj_10": {
+            "type": 3,
+            "x_obj": 507,
+            "y_obj": 283,
+            "rect_obj": 3,
+            "PV_obj": 20
+        }
+    }
+}
