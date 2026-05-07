@@ -1,0 +1,60 @@
+{
+    "pseudo": "GABOU",
+    "MENU": 1,
+    "MENU BUREAU": 1,
+    "CAPITAL": {
+        "user": 10000000000000000000000000000000000000000
+    },
+    "Temps de jeu": {
+        "heures": 0,
+        "minutes": 0
+    },
+    "CRYPTOMONNAIE": {
+        "bitcoin": 5000000,
+        "ethereum": 2500000,
+        "tether": 1000000,
+        "bnb": 800000,
+        "xrp": 750000,
+        "dogecoin": 500000,
+        "polygon": 250000,
+        "solana": 100000,
+        "litcoin": 30000,
+        "cosmos": 5000
+    },
+    "CRYPTOMONNAIE_DETENU": {
+        "bitcoin": 0,
+        "ethereum": 0,
+        "tether": 0,
+        "bnb": 0,
+        "xrp": 0,
+        "dogecoin": 0,
+        "polygon": 0,
+        "solana": 0,
+        "litcoin": 0,
+        "cosmos": 0
+    },
+    "CRYPTOMONNAIE_bénéfice": {
+        "bitcoin_valeur_achat": 0,
+        "bitcoin_valeur_revente": 0,
+        "ethereum_valeur_achat": 0,
+        "ethereum_valeur_revente": 0,
+        "tether_valeur_achat": 0,
+        "tether_valeur_revente": 0,
+        "bnb_valeur_achat": 0,
+        "bnb_valeur_revente": 0,
+        "xrp_valeur_achat": 0,
+        "xrp_valeur_revente": 0,
+        "dogecoin_valeur_achat": 0,
+        "dogecoin_valeur_revente": 0,
+        "polygon_valeur_achat": 0,
+        "polygon_valeur_revente": 0,
+        "solana_valeur_achat": 0,
+        "solana_valeur_revente": 0,
+        "litcoin_valeur_achat": 0,
+        "litcoin_valeur_revente": 0,
+        "cosmos_valeur_achat": 0,
+        "cosmos_valeur_revente": 0
+    },
+    
+    "BOURSE": {}
+}
